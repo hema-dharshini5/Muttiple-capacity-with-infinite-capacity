@@ -16,9 +16,6 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ![image](https://user-images.githubusercontent.com/103921593/203238265-176740b0-eae2-4772-90be-5449869ac9b0.png)
 
-
-
-
 ## Experiment:
 ![318281426-accd1015-c77b-498a-8366-37f3f3e591aa](https://github.com/HemapriyaOfficial/Muttiple-capacity-with-infinite-capacity/assets/147114275/a2251103-149a-455f-bdd1-e1487c1a4bff)
 ![318281436-2b44305c-446a-42b5-9dd0-2933ab7ea7df](https://github.com/HemapriyaOfficial/Muttiple-capacity-with-infinite-capacity/assets/147114275/2e6e6823-0441-49c7-b12b-1ca21083061b)
@@ -63,6 +60,5 @@ print("--------------------------------------------------------------")
 ```
 ## Output :
 ![Screenshot 2024-04-02 142840](https://github.com/hema-dharshini5/Muttiple-capacity-with-infinite-capacity/assets/147117728/710e530f-eebc-4e40-b7a4-b4aab187c4af)
-
 ## Result : 
 Thus the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.

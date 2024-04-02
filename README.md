@@ -24,11 +24,11 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 ![318281436-2b44305c-446a-42b5-9dd0-2933ab7ea7df](https://github.com/HemapriyaOfficial/Muttiple-capacity-with-infinite-capacity/assets/147114275/2e6e6823-0441-49c7-b12b-1ca21083061b)
 
 ## Program
+```
 ...
  Name: Hema Dharshini N
  Register numer: 212223220034
  ...
-```
 import math
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time=float(input("Enter the mean  inter service time of Lathe Machine (in secs) :  "))
